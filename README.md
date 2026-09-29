@@ -8,6 +8,7 @@
 演示地址https://img.dawnlife.qzz.io/
 
 已上传docker hub 
+
 docker push xyzbz/mini-photo-editor-zh
 
 
