@@ -5,6 +5,13 @@
 导入docker本地镜像库，需要设置一下映射端口即可。
 
 
+演示地址https://img.dawnlife.qzz.io/
+
+已上传docker hub 
+docker push xyzbz/mini-photo-editor-zh
+
+
+
 # mini-img-editor
 
 Online webgl2 photo editor  
