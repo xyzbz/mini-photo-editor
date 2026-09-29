@@ -1,3 +1,10 @@
+# 中文docekr镜像
+
+本项目基于以下项目，汉化后的中文Docker版本。
+下载本项目中mini-photo-editor-zh-v0.1.1.zip文件，解压出docker打包镜像（因上传文件超过25M），所以二次压缩。
+导入docker本地镜像库，需要设置一下映射端口即可。
+
+
 # mini-img-editor
 
 Online webgl2 photo editor  
