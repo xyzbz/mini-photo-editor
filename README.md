@@ -9,7 +9,7 @@
 
 已上传docker hub 
 
-docker push xyzbz/mini-photo-editor-zh
+docker pull xyzbz/mini-photo-editor-zh
 
 
 
